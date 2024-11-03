@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": "sarbajitpa088@gmail.com",
+        "name": "sarbajit pauu",
+        "password": "1234567",
+        "image": "img2.jpeg"
+      },
+      {
+        "id": "sadasdasda@fffsdfds",
+        "name": "hemanta manna",
+        "password": "",
+        "image": "img5.jpeg"
+      },
+      {
+        "id": "rivukhan334@gmail.com",
+        "name": "rivu khan",
+        "password": "1234567",
+        "image": "img6.jpeg"
+      },
+      {
+        "id": "akashroy4667@gmail.com",
+        "name": "sneha das",
+        "password": "12345678",
+        "image": "img4.jpeg"
+      },
+      {
+        "id": "sarbajitpaul33@gmail.com",
+        "name": "Rima Roy",
+        "password": "1234566",
+        "image": "img7.jpeg"
+      },
+      {
+        "id": "sarbajitpafsfsgsf8@gmail.com",
+        "name": "arijit samanta",
+        "password": "3342524524",
+        "image": "img1.jpeg"
+      }
+    ]
+  }
